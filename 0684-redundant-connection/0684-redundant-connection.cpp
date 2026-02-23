@@ -1,27 +1,38 @@
+class dsu{
+    public:
+    vector<int>parent,size;
+    dsu(int n){
+        parent.resize(n+1);
+        size.resize(n+1,1);
+        for(int i=0;i<=n;i++) parent[i]=i;
+    }
+    int find(int x){
+        if(parent[x]==x) return x;
+        return parent[x]=find(parent[x]);
+    }
+    vector<int> union_m(int x,int y){
+        int px=find(x);
+        int py=find(y);
+        if(px==py) return{x,y};
+        if(size[px]>=size[py]){
+            parent[py]=px;
+            size[px]+=size[py];
+        }else if(size[px]<size[py]){
+            parent[px]=py;
+            size[py]+=size[px];
+        }
+        return {};
+    }
+};
 class Solution {
 public:
-    bool dfs(int i,int target,vector<vector<int>>&adj,vector<bool>&vis){
-        if(i==target) return true;
-        vis[i]=true;
-        for(auto&nbr:adj[i]){
-            if(!vis[nbr]){
-                if(dfs(nbr,target,adj,vis)) return true;
-            }
-        }
-        return false;
-    }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n=edges.size();
-        vector<vector<int>>adj(n+1);
+        dsu d(n);
         for(auto&x:edges){
             int u=x[0];
             int v=x[1];
-            vector<bool>vis(n+1,false);
-
-            if(dfs(u,v,adj,vis)) return x;
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            if(!d.union_m(u,v).empty()) return d.union_m(u,v) ;
         }
         return {};
     }
