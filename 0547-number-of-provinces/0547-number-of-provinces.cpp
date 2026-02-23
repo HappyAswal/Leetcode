@@ -1,24 +1,42 @@
+class dsu{
+    public:
+    vector<int>parent,size;
+    int component;
+    dsu(int n){
+        parent.resize(n);
+        size.resize(n,1);
+        this->component=n;
+        for(int i=0;i<n;i++) parent[i]=i;
+    }
+    int find(int x){
+        if(parent[x]==x) return x;
+        return parent[x]=find(parent[x]);
+    }
+    void union_m(int x,int y){
+        int px=find(x);
+        int py=find(y);
+        if(px==py) return;
+        if(size[px]>=size[py]){
+            parent[py]=px;
+            size[px]+=size[py];
+        }else if(size[px]<size[py]){
+            parent[px]=py;
+            size[py]+=size[px];
+        }
+        component--;
+    }
+};
 class Solution {
 public:
-    int n;
-    void dfs(int i,vector<vector<int>>& isConnected,vector<bool>&vis){
-        vis[i]=true;
-        for(int j=0;j<n;j++){
-            if(isConnected[i][j]==1 && !vis[j]){
-                dfs(j,isConnected,vis);
-            }
-        }
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        n=isConnected.size();
-        vector<bool>vis(n+1,false);
-        int cc=0;
+        int n=isConnected.size();
+        dsu d(n);
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                dfs(i,isConnected,vis);
-                cc++;
+            for(int j=0;j<n;j++){
+                if(isConnected[i][j]==1 && i!=j)
+                d.union_m(i,j);
             }
         }
-        return cc;
+        return d.component;
     }
 };
