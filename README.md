@@ -54,4 +54,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0860-lemonade-change](https://github.com/HappyAswal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/HappyAswal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
