@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/HappyAswal/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HappyAswal/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HappyAswal/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
