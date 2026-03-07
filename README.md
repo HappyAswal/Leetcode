@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HappyAswal/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HappyAswal/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
