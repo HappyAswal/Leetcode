@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HappyAswal/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/HappyAswal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0860-lemonade-change](https://github.com/HappyAswal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HappyAswal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 ## Union-Find
@@ -127,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 <!---LeetCode Topics End-->
