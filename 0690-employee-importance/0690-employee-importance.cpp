@@ -11,14 +11,12 @@ public:
 class Solution {
 public:
     int getImportance(vector<Employee*> employees, int id) {
-        int index;
         unordered_map<int,int>mp;
         for(int i=0;i<employees.size();i++){
             mp[employees[i]->id]=i;
         }
-        index=mp[id];
         queue<int>q;
-        q.push(index);
+        q.push(mp[id]);
         int imp=0;
         while(!q.empty()){
             int w=q.front(); q.pop();
