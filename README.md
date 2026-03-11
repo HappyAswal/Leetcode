@@ -148,4 +148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/HappyAswal/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
