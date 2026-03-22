@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HappyAswal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
