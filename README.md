@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HappyAswal/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
