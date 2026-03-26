@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/HappyAswal/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/HappyAswal/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 ## String
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/HappyAswal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Array
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/HappyAswal/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0724-find-pivot-index](https://github.com/HappyAswal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
