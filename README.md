@@ -300,4 +300,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/HappyAswal/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 <!---LeetCode Topics End-->
