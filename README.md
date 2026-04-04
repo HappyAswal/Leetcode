@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HappyAswal/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HappyAswal/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
