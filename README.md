@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/HappyAswal/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/HappyAswal/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/HappyAswal/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0729-my-calendar-i](https://github.com/HappyAswal/Leetcode/tree/main/0729-my-calendar-i/) | Medium |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HappyAswal/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
