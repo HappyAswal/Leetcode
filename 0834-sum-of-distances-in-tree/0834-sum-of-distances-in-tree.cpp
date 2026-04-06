@@ -15,8 +15,8 @@ public:
         }
     }
     void dfs1(int node,int parent){
-        dp[node]=0;
-        sub[node]=1;
+        //dp[node]=0;
+        //sub[node]=1;
         for(int v:adj[node]){
             if(v!=parent){
                 dfs1(v,node);
