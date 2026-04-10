@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2608-shortest-cycle-in-a-graph/) | Hard |
 ## Hash Table
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HappyAswal/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
