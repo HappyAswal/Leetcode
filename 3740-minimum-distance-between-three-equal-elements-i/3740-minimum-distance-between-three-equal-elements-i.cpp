@@ -12,7 +12,7 @@ public:
             vector<int>index;
             index.push_back(nums[i][1]);
             for(int j=i+1;j<n;j++){
-                if(nums[i][0]==nums[j][0] && count<4){
+                if(nums[i][0]==nums[j][0]){
                     count++;
                     index.push_back(nums[j][1]);
                 }
