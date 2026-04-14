@@ -350,5 +350,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/HappyAswal/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HappyAswal/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 <!---LeetCode Topics End-->
