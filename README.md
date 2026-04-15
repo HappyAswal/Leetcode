@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/HappyAswal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/HappyAswal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/HappyAswal/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/HappyAswal/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HappyAswal/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyAswal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0696-count-binary-substrings](https://github.com/HappyAswal/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
