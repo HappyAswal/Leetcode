@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/HappyAswal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/HappyAswal/Leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0078-subsets](https://github.com/HappyAswal/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/HappyAswal/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/HappyAswal/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/HappyAswal/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HappyAswal/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/HappyAswal/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0191-number-of-1-bits](https://github.com/HappyAswal/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
