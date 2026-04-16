@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/HappyAswal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/HappyAswal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/HappyAswal/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/HappyAswal/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/HappyAswal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HappyAswal/Leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/HappyAswal/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
