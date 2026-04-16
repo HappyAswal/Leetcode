@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HappyAswal/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/HappyAswal/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HappyAswal/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/HappyAswal/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -454,4 +456,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/HappyAswal/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
