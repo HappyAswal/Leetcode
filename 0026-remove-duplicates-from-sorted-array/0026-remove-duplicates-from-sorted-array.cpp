@@ -6,7 +6,7 @@ public:
         for(int j=1;j<n;j++){
             if(nums[j]!=nums[idx]){
                 idx++;
-                swap(nums[idx],nums[j]);
+                nums[idx]=nums[j];
             }
         }
         return idx+1;
