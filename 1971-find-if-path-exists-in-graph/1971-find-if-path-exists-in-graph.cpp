@@ -12,13 +12,14 @@ public:
         vis[source]=true;
         while(!q.empty()){
             int node=q.front(); q.pop();
+            if(node==destination) return true;
             for(auto nbr: adj[node]){
                 if(!vis[nbr]){
-                q.push(nbr);
-                vis[nbr]=true;
+                    q.push(nbr);
+                    vis[nbr]=true;
                 }
             }
         }
-        return vis[destination];
+        return false;
     }
 };
