@@ -1,26 +1,33 @@
 class Solution {
 public:
-    vector<vector<bool>>vis;
-    void dfs(int i,int j,vector<vector<char>>& grid){
-        if(i<0 || j<0 || i>=grid.size() || j>=grid[0].size() || grid[i][j]=='0' || vis[i][j]) return;
-        vis[i][j]=true;
-        dfs(i+1,j,grid);
-        dfs(i,j+1,grid);
-        dfs(i-1,j,grid);
-        dfs(i,j-1,grid);
-    }
-    int numIslands(vector<vector<char>>& grid){
+    int numIslands(vector<vector<char>>& grid) {
         int n=grid.size(),m=grid[0].size();
-        vis.assign(n,vector<bool>(m,false));
+        vector<vector<bool>>vis(n,vector<bool>(m,false));
+        int dx[4]={1,-1,0,0};
+        int dy[4]={0,0,-1,1};
         int island=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]=='1' && !vis[i][j]){
-                    dfs(i,j,grid);
+                    //do bfs
+                    queue<pair<int,int>>q;
+                    q.push({i,j});
+                    while(!q.empty()){
+                        auto[x,y]=q.front(); q.pop();
+                        vis[x][y]=true;
+                        for(int k=0;k<4;k++){
+                            int ni=x+dx[k];
+                            int nj=y+dy[k];
+                            if(ni>=0 && nj>=0 && ni<n && nj<m && !vis[ni][nj] && grid[ni][nj]=='1'){
+                                q.push({ni,nj});
+                            }
+                        }
+                    }
                     island++;
                 }
             }
         }
         return island;
+
     }
 };
