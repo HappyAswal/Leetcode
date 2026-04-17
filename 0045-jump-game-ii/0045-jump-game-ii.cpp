@@ -1,16 +1,17 @@
 class Solution {
 public:
-    int jump(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n,1e9);
-        dp[0]=0;
-        for(int i=1;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(j+nums[j]>=i){
-                    dp[i]=min(dp[i],dp[j]+1);
-                }
-            }
+    vector<int>dp;
+    int solve(int i,vector<int>&nums){
+        if(i>=nums.size()-1) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int mini=1e9;
+        for(int j=1;j<=nums[i];j++){
+            mini=min(mini,1+solve(i+j,nums));
         }
-        return dp[n-1];
+        return dp[i]=mini;
+    }
+    int jump(vector<int>& nums) {
+        dp.assign(nums.size(),-1);
+        return solve(0,nums);
     }
 };
