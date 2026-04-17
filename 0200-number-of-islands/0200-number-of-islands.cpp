@@ -1,31 +1,26 @@
 class Solution {
 public:
-    int n,m;
-    int dx[4]={1,-1,0,0};
-    int dy[4]={0,0,-1,1};
-    void dfs(int i,int j,vector<vector<char>>& grid,vector<vector<bool>>&vis){
+    vector<vector<bool>>vis;
+    void dfs(int i,int j,vector<vector<char>>& grid){
+        if(i<0 || j<0 || i>=grid.size() || j>=grid[0].size() || grid[i][j]=='0' || vis[i][j]) return;
         vis[i][j]=true;
-        for(int k=0;k<4;k++){
-            int ni=i+dx[k];
-            int nj=j+dy[k];
-            if(ni>=0 && nj>=0 && ni<n && nj<m && !vis[ni][nj] && grid[i][j]=='1'){
-                dfs(ni,nj,grid,vis);
-            } 
-        }
+        dfs(i+1,j,grid);
+        dfs(i,j+1,grid);
+        dfs(i-1,j,grid);
+        dfs(i,j-1,grid);
     }
-    int numIslands(vector<vector<char>>& grid) {
-        n=grid.size();
-        m=grid[0].size();
-        vector<vector<bool>>vis(n,vector<bool>(m,false));
-        int count=0;
+    int numIslands(vector<vector<char>>& grid){
+        int n=grid.size(),m=grid[0].size();
+        vis.assign(n,vector<bool>(m,false));
+        int island=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!vis[i][j] && grid[i][j]=='1'){
-                    dfs(i,j,grid,vis);
-                    count++;
+                if(grid[i][j]=='1' && !vis[i][j]){
+                    dfs(i,j,grid);
+                    island++;
                 }
             }
         }
-        return count;
+        return island;
     }
 };
