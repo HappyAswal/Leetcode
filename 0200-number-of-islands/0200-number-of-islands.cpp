@@ -12,14 +12,15 @@ public:
                     //do bfs
                     queue<pair<int,int>>q;
                     q.push({i,j});
+                    vis[i][j]=true;
                     while(!q.empty()){
                         auto[x,y]=q.front(); q.pop();
-                        vis[x][y]=true;
                         for(int k=0;k<4;k++){
                             int ni=x+dx[k];
                             int nj=y+dy[k];
                             if(ni>=0 && nj>=0 && ni<n && nj<m && !vis[ni][nj] && grid[ni][nj]=='1'){
                                 q.push({ni,nj});
+                                vis[ni][nj]=true;
                             }
                         }
                     }
