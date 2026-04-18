@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/HappyAswal/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/HappyAswal/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/HappyAswal/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/HappyAswal/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/HappyAswal/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/HappyAswal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
@@ -204,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/HappyAswal/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/HappyAswal/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/HappyAswal/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -378,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
