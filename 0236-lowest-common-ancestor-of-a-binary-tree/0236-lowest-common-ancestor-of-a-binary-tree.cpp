@@ -13,11 +13,11 @@ public:
         if(root==NULL) return NULL;
         if(root==p) return p;
         if(root==q) return q;
-        TreeNode* left=solve(root->left,p,q);
-        TreeNode* right=solve(root->right,p,q);
-        if(left && right) return root;
-        else if(left) return left;
-        else return right;
+        TreeNode* l=solve(root->left,p,q);
+        TreeNode* r=solve(root->right,p,q);
+        if(l!=NULL && r!=NULL) return root;
+        else if(l!=NULL) return l; //r is null that means value not found
+        else return r;   // no value found in l
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         return solve(root,p,q);
