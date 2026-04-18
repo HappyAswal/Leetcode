@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/HappyAswal/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/HappyAswal/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/HappyAswal/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/HappyAswal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
