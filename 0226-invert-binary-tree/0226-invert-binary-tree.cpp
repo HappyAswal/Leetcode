@@ -13,9 +13,7 @@ class Solution {
 public:
     TreeNode* invert(TreeNode* root){
         if(root==nullptr) return nullptr;
-        TreeNode* temp=root->left;
-        root->left=root->right;
-        root->right=temp;
+        swap(root->left,root->right);
         invert(root->left);
         invert(root->right);
         return root;
