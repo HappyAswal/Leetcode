@@ -1,8 +1,7 @@
-
 class NumArray {
 public:
-    int n;
     int seg[4*3*10001];
+    int n;
     void build(int idx,int l,int r,vector<int>&nums){
         if(l==r){
             seg[idx]=nums[l];
@@ -13,20 +12,19 @@ public:
         build(2*idx+2,mid+1,r,nums);
         seg[idx]=seg[2*idx+1]+seg[2*idx+2];
     }
-    void updatefxn(int idx,int l,int r,int range,int nv){
+    void supdate(int idx,int l,int r,int range,int nv){
         if(l==r){
             seg[idx]=nv;
             return;
         }
         int mid=l+(r-l)/2;
-        if(range<=mid) updatefxn(2*idx+1,l,mid,range,nv);
-        else updatefxn(2*idx+2,mid+1,r,range,nv);
+        if(range<=mid) supdate(2*idx+1,l,mid,range,nv);
+        else supdate(2*idx+2,mid+1,r,range,nv);
         seg[idx]=seg[2*idx+1]+seg[2*idx+2];
     }
-    int query(int idx,int l,int r,int ql,int qr){
+    int query(int idx,int l, int r,int ql,int qr){
         if(r<ql || l>qr) return 0;
         if(l>=ql && r<=qr) return seg[idx];
-
         int mid=l+(r-l)/2;
         int left=query(2*idx+1,l,mid,ql,qr);
         int right=query(2*idx+2,mid+1,r,ql,qr);
@@ -38,7 +36,7 @@ public:
     }
     
     void update(int index, int val) {
-        updatefxn(0,0,n-1,index,val);
+        supdate(0,0,n-1,index,val);
     }
     
     int sumRange(int left, int right) {
