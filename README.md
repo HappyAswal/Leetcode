@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/HappyAswal/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/HappyAswal/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/HappyAswal/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/HappyAswal/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HappyAswal/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HappyAswal/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -470,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/HappyAswal/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/HappyAswal/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Ordered Set
@@ -547,4 +549,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HappyAswal/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
