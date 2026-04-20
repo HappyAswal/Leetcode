@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/HappyAswal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HappyAswal/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HappyAswal/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/HappyAswal/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/HappyAswal/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/HappyAswal/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HappyAswal/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HappyAswal/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -483,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
