@@ -23,9 +23,10 @@ public:
             for(int j=0;j<m;j++){
                 if(!vis[i][j]){
                     dfs(i,j,grid,-1,-1);
+                    if(flag) return true;
                 }
             }
         }
-        return flag;
+        return 1==0;
     }
 };
