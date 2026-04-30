@@ -11,23 +11,16 @@
  */
 class Solution {
 public:
-    vector<int>val;
-    void fxn(TreeNode* root){
-        if(!root) return;
-        fxn(root->left);
-        val.push_back(root->val);
-        fxn(root->right);
+    unordered_set<int>s;
+    bool fxn(TreeNode* root,int k){
+        if(!root) return false;
+        if(s.find(k-root->val)!=s.end()) return true;
+        s.insert(root->val);
+        int l=fxn(root->left,k);
+        int r=fxn(root->right,k);
+        return l||r;
     }
     bool findTarget(TreeNode* root, int k) {
-        fxn(root);
-        int n=val.size();
-        int i=0,j=n-1;
-        while(i<j){
-            int sum=val[i]+val[j];
-            if(sum==k) return true;
-            if(sum<k) i++;
-            else j--;
-        }
-        return false;
+        return fxn(root,k);
     }
 };
