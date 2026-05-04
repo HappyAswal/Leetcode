@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/HappyAswal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/HappyAswal/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/HappyAswal/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0934-shortest-bridge](https://github.com/HappyAswal/Leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HappyAswal/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0696-count-binary-substrings](https://github.com/HappyAswal/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/HappyAswal/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
