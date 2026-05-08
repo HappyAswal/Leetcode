@@ -551,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/HappyAswal/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/HappyAswal/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/HappyAswal/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/HappyAswal/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HappyAswal/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
