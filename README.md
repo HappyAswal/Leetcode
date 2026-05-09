@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/HappyAswal/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HappyAswal/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HappyAswal/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/HappyAswal/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/HappyAswal/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Stack
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/HappyAswal/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/HappyAswal/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -507,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/HappyAswal/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HappyAswal/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -599,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
