@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyAswal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/HappyAswal/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/HappyAswal/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/HappyAswal/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/HappyAswal/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/HappyAswal/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/HappyAswal/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/HappyAswal/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyAswal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/HappyAswal/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/HappyAswal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/HappyAswal/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/HappyAswal/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/HappyAswal/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/HappyAswal/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
