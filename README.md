@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HappyAswal/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HappyAswal/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sorting
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HappyAswal/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -565,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/HappyAswal/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/HappyAswal/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
