@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HappyAswal/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/HappyAswal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1051-height-checker](https://github.com/HappyAswal/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/HappyAswal/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/HappyAswal/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/HappyAswal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HappyAswal/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
