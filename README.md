@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/HappyAswal/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/HappyAswal/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
