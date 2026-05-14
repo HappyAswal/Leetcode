@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isGood(vector<int>& nums) {
         int n=*max_element(nums.begin(),nums.end());
-        int freq[201];
+        int freq[201]={0};
         for(int x:nums){
             freq[x]++;
         }
