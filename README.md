@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HappyAswal/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/HappyAswal/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HappyAswal/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1306-jump-game-iii](https://github.com/HappyAswal/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HappyAswal/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/HappyAswal/Leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1306-jump-game-iii](https://github.com/HappyAswal/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HappyAswal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HappyAswal/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HappyAswal/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
