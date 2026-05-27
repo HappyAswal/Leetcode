@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/HappyAswal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HappyAswal/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/HappyAswal/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HappyAswal/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HappyAswal/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Sorting
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/HappyAswal/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HappyAswal/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/HappyAswal/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
