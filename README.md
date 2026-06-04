@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/HappyAswal/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/HappyAswal/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/HappyAswal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyAswal/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/HappyAswal/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -569,16 +571,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/HappyAswal/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/HappyAswal/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/HappyAswal/Leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0729-my-calendar-i](https://github.com/HappyAswal/Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -604,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0729-my-calendar-i](https://github.com/HappyAswal/Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -720,4 +726,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/HappyAswal/Leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
