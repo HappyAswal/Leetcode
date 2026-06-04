@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/HappyAswal/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HappyAswal/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/HappyAswal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/HappyAswal/Leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HappyAswal/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HappyAswal/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HappyAswal/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyAswal/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/HappyAswal/Leetcode/tree/main/0443-string-compression/) | Medium |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HappyAswal/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/HappyAswal/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HappyAswal/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/HappyAswal/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/HappyAswal/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/HappyAswal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HappyAswal/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
