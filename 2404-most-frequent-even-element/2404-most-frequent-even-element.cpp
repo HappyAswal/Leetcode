@@ -5,16 +5,16 @@ public:
         for(int x:nums){
             if(x%2==0) freq[x]++;
         }
-        vector<int>ss;
-        int lf=0;
-        for(auto x:freq){
-            lf=max(lf,x.second);
+        int mf=0;
+        int ans=-1;
+        for(auto [x,f]:freq){
+            if(f>mf){
+                ans=x;
+                mf=f;
+            }else if(f==mf){
+                ans=min(ans,x);
+            }
         }
-        for(auto x:freq){
-            if(x.second==lf) ss.push_back(x.first);
-        }
-        if(ss.empty()) return -1;
-        int ans=*min_element(ss.begin(),ss.end());
         return ans;
     }
 };
