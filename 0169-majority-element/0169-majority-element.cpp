@@ -1,12 +1,13 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int,int>freq;
-        int n=nums.size();
+        int ans=0;
+        int count=0;
         for(int x:nums){
-            freq[x]++;
-            if(freq[x]>n/2) return x;
+            if(count==0) ans=x;
+            if(x==ans) count++;
+            else count--;
         }
-        return -1;
+        return ans;
     }
 };
