@@ -3,6 +3,8 @@ public:
     long long count=0;
     void countpairs(int low,int mid,int high,vector<int>&nums){
         int right=mid+1;
+        // For the current countpairs call, we don't reset 'right'
+        // for every new i, which makes the counting efficient.
         for(int i=low;i<=mid;i++){
             while(right<=high && (long long)nums[i]>2LL*nums[right]){
                 right++;
