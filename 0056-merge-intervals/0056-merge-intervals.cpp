@@ -1,18 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& inl) {
-        sort(inl.begin(),inl.end());
-        vector<int>compare=inl[0];
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>>ans;
-        for(int i=1;i<inl.size();i++){
-            if(inl[i][0]<=compare[1]){
-                compare[1]=max(compare[1],inl[i][1]);
-            }else{
-                ans.push_back(compare);
-                compare=inl[i];
+        sort(intervals.begin(),intervals.end(),[](auto&a,auto&b){
+            if(a[0]==b[0]) return a[1]<b[1];
+            else return a[0]<b[0];
+        });
+        vector<int>tempi=intervals[0];
+        for(int i=1;i<intervals.size();i++){
+            //overlap condition
+            if(intervals[i][0]<=tempi[1]){
+                tempi[1]=max(tempi[1],intervals[i][1]);
+            }
+            //outside
+            else{
+                ans.push_back(tempi);
+                tempi=intervals[i];
             }
         }
-        ans.push_back(compare);
+        ans.push_back(tempi);
+        
+
         return ans;
     }
 };
