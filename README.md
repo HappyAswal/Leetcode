@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/HappyAswal/Leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0437-path-sum-iii](https://github.com/HappyAswal/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/HappyAswal/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/HappyAswal/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0322-coin-change](https://github.com/HappyAswal/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/HappyAswal/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/HappyAswal/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/HappyAswal/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/HappyAswal/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/HappyAswal/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HappyAswal/Leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/HappyAswal/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0310-minimum-height-trees](https://github.com/HappyAswal/Leetcode/tree/main/0310-minimum-height-trees/) | Medium |
+| [0547-number-of-provinces](https://github.com/HappyAswal/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HappyAswal/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/HappyAswal/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/HappyAswal/Leetcode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
