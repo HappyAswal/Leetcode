@@ -3,9 +3,9 @@ class DSU{
     vector<int>parent,size;
     int components;
     DSU(int n){
-        parent.resize(n+1);
-        size.resize(n+1,1);
-        for(int i=1;i<=n;i++) parent[i]=i;
+        parent.resize(n);
+        size.resize(n,1);
+        for(int i=0;i<n;i++) parent[i]=i;
         components=n;
     }
     int find(int x){
