@@ -471,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/HappyAswal/Leetcode/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0917-reverse-only-letters](https://github.com/HappyAswal/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/HappyAswal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HappyAswal/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Database
