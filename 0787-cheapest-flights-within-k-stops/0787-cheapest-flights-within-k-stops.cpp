@@ -5,23 +5,24 @@ public:
         for(auto x:flights){
             adj[x[0]].push_back({x[1],x[2]});
         }
+
+        vector<int>dist(n,1e9);
         queue<tuple<int,int,int>>q;
-        vector<int>dist(n,INT_MAX);
-        dist[src]=0;
-        //currw,currn,k
+        //stops,node,dist
         q.push({0,src,0});
+        dist[src]=0;
         while(!q.empty()){
-            auto[currw,currn,ck]=q.front(); q.pop();
-            if(ck>k) continue;
-            for(auto x:adj[currn]){
-                auto[v,w]=x;
-                int neww=currw+w;
-                if(dist[v]>neww && ck<=k){
-                    dist[v]=neww;
-                    q.push({neww,v,ck+1});
+            auto[stp,node,d]=q.front(); q.pop();
+            if(stp>k) continue;
+            for(auto x:adj[node]){
+                auto[u,w]=x;
+                if(dist[u]>w+d){
+                    dist[u]=w+d;
+                    q.push({stp+1,u,dist[u]});
                 }
             }
+
         }
-        return (dist[dst]==INT_MAX)?-1:dist[dst];
+        return dist[dst]>=1e9?-1:dist[dst];
     }
 };
