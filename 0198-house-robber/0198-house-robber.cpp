@@ -1,18 +1,15 @@
 class Solution {
 public:
-    int rob(vector<int>& arr) {
-        vector<int> dp(arr.size(),0);
-        int n=arr.size();
-        
-        if(n == 1) return arr[0];
-        if(n == 2) return max(arr[0], arr[1]);
-        
-        dp[n-1]=arr[n-1];
-        dp[n-2]=max(arr[n-1],arr[n-2]);
-        
-        for(int i=n-3;i>=0;i--){
-            dp[i]=max(arr[i]+dp[i+2],dp[i+1]);
-        }
-        return dp[0];
+    vector<int>dp;
+    int fxn(int i,vector<int>&nums){
+        if(i>=nums.size()) return 0;
+        if(dp[i]!=-1) return dp[i];
+        int rb1=nums[i]+fxn(i+2,nums);
+        int rb2=fxn(i+1,nums);
+        return dp[i]=max(rb1,rb2);
+    }
+    int rob(vector<int>& nums) {
+        dp.assign(nums.size(),-1);
+        return fxn(0,nums);
     }
 };
