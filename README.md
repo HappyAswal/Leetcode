@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/HappyAswal/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/HappyAswal/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HappyAswal/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/HappyAswal/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/HappyAswal/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/HappyAswal/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0500-keyboard-row](https://github.com/HappyAswal/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0541-reverse-string-ii](https://github.com/HappyAswal/Leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HappyAswal/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HappyAswal/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/HappyAswal/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/HappyAswal/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/HappyAswal/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HappyAswal/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
