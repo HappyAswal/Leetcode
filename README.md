@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HappyAswal/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HappyAswal/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/HappyAswal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/HappyAswal/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/HappyAswal/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/HappyAswal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/HappyAswal/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
