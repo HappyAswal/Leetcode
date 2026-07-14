@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HappyAswal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/HappyAswal/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/HappyAswal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/HappyAswal/Leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/HappyAswal/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/HappyAswal/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/HappyAswal/Leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
