@@ -683,6 +683,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/HappyAswal/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HappyAswal/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HappyAswal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HappyAswal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/HappyAswal/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -818,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/HappyAswal/Leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HappyAswal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
