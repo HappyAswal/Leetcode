@@ -1,44 +1,26 @@
-class DSU{
-    public:
-    vector<int>parent,size;
-    int components;
-    DSU(int n){
-        parent.resize(n);
-        size.resize(n,1);
-        for(int i=0;i<n;i++) parent[i]=i;
-        components=n;
-    }
-    int find(int x){
-        if(parent[x]==x) return x;
-        return parent[x]=find(parent[x]);
-    }
-    void d_union(int x,int y){
-        int px=find(x);
-        int py=find(y);
-        if(px==py) return;
-        if(size[px]>=size[py]){
-            size[px]+=size[py];
-            parent[py]=px;
-        }else{
-            size[py]+=size[px];
-            parent[px]=py;
-        }
-        components--;
-    }
-    
-};
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n=isConnected.size();
-        DSU d(n);
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(isConnected[i][j]==1){
-                    d.d_union(i,j);
-                }
+    int n;
+    vector<bool>vis;
+    void dfs(int city,vector<vector<int>>&isConnected){
+        vis[city]=true;
+        for(int j=0;j<n;j++){
+            if(isConnected[city][j] && !vis[j]){
+                dfs(j,isConnected);
             }
         }
-        return d.components;
+
+    }
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        n=isConnected.size();
+        vis.assign(n,false);
+        int count=0;
+        for(int city=0;city<n;city++){
+            if(!vis[city]){
+                dfs(city,isConnected);
+                count++;
+            }
+        }
+        return count;
     }
 };
