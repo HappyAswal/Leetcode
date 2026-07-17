@@ -1,22 +1,22 @@
 class Solution {
 public:
-    bool check(vector<int>&piles,int mid,int h){
-        long long hours=0;
+    bool solve(int b,int h,vector<int>&piles){
+        long long count=0;
         for(int i=0;i<piles.size();i++){
-            hours+=(int)ceil((double)piles[i]/mid);
+            count+= ceil((double)piles[i]/b);
         }
-        return hours<=h;
+        return count<=h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
-        int start=1;
-        int end=*max_element(piles.begin(),piles.end());
-        int ans=0;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(check(piles,mid,h)){
+        int low=1;
+        int high=*max_element(piles.begin(),piles.end());
+        int ans=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(solve(mid,h,piles)){
                 ans=mid;
-                end=mid-1;
-            }else start=mid+1;
+                high=mid-1;
+            }else low=mid+1;
         }
         return ans;
     }
