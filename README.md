@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/HappyAswal/Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/HappyAswal/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/HappyAswal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/HappyAswal/Leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HappyAswal/Leetcode/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/HappyAswal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/HappyAswal/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0690-employee-importance](https://github.com/HappyAswal/Leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0695-max-area-of-island](https://github.com/HappyAswal/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/HappyAswal/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/HappyAswal/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/HappyAswal/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/HappyAswal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyAswal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
