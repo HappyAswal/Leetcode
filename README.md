@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HappyAswal/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HappyAswal/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/HappyAswal/Leetcode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3731-find-missing-elements](https://github.com/HappyAswal/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HappyAswal/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/HappyAswal/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/HappyAswal/Leetcode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HappyAswal/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HappyAswal/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/HappyAswal/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -752,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2404-most-frequent-even-element](https://github.com/HappyAswal/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/HappyAswal/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3238-find-the-number-of-winning-players](https://github.com/HappyAswal/Leetcode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
