@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HappyAswal/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HappyAswal/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/HappyAswal/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -430,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HappyAswal/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HappyAswal/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HappyAswal/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/HappyAswal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HappyAswal/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/HappyAswal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyAswal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HappyAswal/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/HappyAswal/Leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
@@ -848,5 +851,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/HappyAswal/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 <!---LeetCode Topics End-->
