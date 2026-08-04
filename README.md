@@ -697,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2523-closest-prime-numbers-in-range](https://github.com/HappyAswal/Leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/HappyAswal/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/HappyAswal/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HappyAswal/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HappyAswal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HappyAswal/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/HappyAswal/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/HappyAswal/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/HappyAswal/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/HappyAswal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/HappyAswal/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -843,4 +845,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/HappyAswal/Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/HappyAswal/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/HappyAswal/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 <!---LeetCode Topics End-->
