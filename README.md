@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HappyAswal/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HappyAswal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-count-sub-islands](https://github.com/HappyAswal/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/HappyAswal/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [1992-find-all-groups-of-farmland](https://github.com/HappyAswal/Leetcode/tree/main/1992-find-all-groups-of-farmland/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HappyAswal/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2360-longest-cycle-in-a-graph](https://github.com/HappyAswal/Leetcode/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HappyAswal/Leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HappyAswal/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HappyAswal/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1361-validate-binary-tree-nodes](https://github.com/HappyAswal/Leetcode/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HappyAswal/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
