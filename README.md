@@ -464,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/HappyAswal/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/HappyAswal/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/HappyAswal/Leetcode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HappyAswal/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/HappyAswal/Leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/HappyAswal/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3238-find-the-number-of-winning-players](https://github.com/HappyAswal/Leetcode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
@@ -746,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/HappyAswal/Leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/HappyAswal/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/HappyAswal/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HappyAswal/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/HappyAswal/Leetcode/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/HappyAswal/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/HappyAswal/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
