@@ -716,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/HappyAswal/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/HappyAswal/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HappyAswal/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/HappyAswal/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/HappyAswal/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -893,4 +894,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/HappyAswal/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
