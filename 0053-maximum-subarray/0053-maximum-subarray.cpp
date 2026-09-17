@@ -6,9 +6,7 @@ public:
         for(int x:nums){
             sum+=x;
             ans=max(ans,sum);
-            if(sum<0){
-                sum=0;
-            }
+            if(sum<0) sum=0;
         }
         return ans;
     }
