@@ -16,7 +16,6 @@ public:
         ListNode* next=NULL;
         if(!head) return head;
         if(!head->next) return head;
-
         while(temp){
             next=temp->next;
             temp->next=prev;
