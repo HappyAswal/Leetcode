@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HappyAswal/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/HappyAswal/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HappyAswal/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HappyAswal/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/HappyAswal/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/HappyAswal/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HappyAswal/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/HappyAswal/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/HappyAswal/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HappyAswal/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
