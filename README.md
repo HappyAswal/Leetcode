@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HappyAswal/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyAswal/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/HappyAswal/Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HappyAswal/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2404-most-frequent-even-element](https://github.com/HappyAswal/Leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HappyAswal/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HappyAswal/Leetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HappyAswal/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyAswal/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1690-stone-game-vii](https://github.com/HappyAswal/Leetcode/tree/main/1690-stone-game-vii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/HappyAswal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HappyAswal/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/HappyAswal/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HappyAswal/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyAswal/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/HappyAswal/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2256-minimum-average-difference](https://github.com/HappyAswal/Leetcode/tree/main/2256-minimum-average-difference/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/HappyAswal/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HappyAswal/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HappyAswal/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/HappyAswal/Leetcode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyAswal/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2540-minimum-common-value](https://github.com/HappyAswal/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -851,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/HappyAswal/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/HappyAswal/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/HappyAswal/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HappyAswal/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
