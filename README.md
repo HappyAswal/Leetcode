@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/HappyAswal/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HappyAswal/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HappyAswal/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HappyAswal/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/HappyAswal/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/HappyAswal/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/HappyAswal/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HappyAswal/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HappyAswal/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -929,6 +931,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HappyAswal/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HappyAswal/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
